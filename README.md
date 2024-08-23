@@ -1,4 +1,4 @@
-## **Libraries and Tools Used in Our Project**
+## **Tools and Libraries that are used in Our Project**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Google%20Colab-blue" alt="Google Colab" style="flex: 1 1 30%;">
