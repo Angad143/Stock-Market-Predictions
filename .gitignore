@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#################################
+# Using rnn_model.h5/ in the .gitignore file is incorrect because it indicates
+# that rnn_model.h5 is a directory, not a file. The trailing slash / is used to 
+# denote directories.
+lstm_model.h5
+rnn_model.h5
+#################################
+
+
 # C extensions
 *.so
 
