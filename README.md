@@ -8,7 +8,11 @@
   <img src="https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" style="flex: 1 1 30%;">
   <img src="https://img.shields.io/badge/Gradio-FCC624?style=flat&logo=gradio&logoColor=black" alt="Gradio" style="flex: 1 1 30%;">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/yfinance-1f77b4?style=flat&logo=yahoo&logoColor=white" alt="yfinance" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" style="flex: 1 1 30%;">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" style="flex: 1 1 30%;">
 </div>
+
 
 
 # **Stock Market Prediction Using Stacked LSTM**
